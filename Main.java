@@ -19,4 +19,7 @@ public class Main {
     public void method2() {
         // Added on Branch1
     }
+    //Commit 1
+    //Commit 2
+    //Commit 3
 }
